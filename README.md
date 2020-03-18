@@ -1,4 +1,4 @@
-# Bikes-Bgcn
+# Bikes-SCEG
  ------------------------
  tensorflow version: TF 2.0
  
@@ -12,7 +12,7 @@
  
  ### Files:
  + datapreocess.py: Load data from files with a sliding-window
- + bs.py: Main function
+ + bs.py: Main function. Run the file to train and test the SCEG model
  + Egcn.py: Framework for time-evolving station embedding(E-GCN) and community-informed staiton embedding(B-GCN)
  + GCN_layer.py: details for  GCN and Evolve-GCN (*Evolvegcn: Evolving graph convolutional networks for dynamicgraphs. In: AAAI’20*)
  + vaeTL.py: 
