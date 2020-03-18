@@ -1,6 +1,6 @@
 # Bikes-Bgcn
  ------------------------
- tensorflow version: tf2.0
+ tensorflow version: TF 2.0
  
  ### datasets: (bikes demands in each stations)
  - citibike: https://www.citibikenyc.com/system-data
