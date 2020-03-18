@@ -16,8 +16,8 @@
  + Egcn.py: Framework for time-evolving station embedding(E-GCN) and community-informed staiton embedding(B-GCN)
  + GCN_layer.py: details for  GCN and Evolve-GCN (*Evolvegcn: Evolving graph convolutional networks for dynamicgraphs. In: AAAI’20*)
  + vaeTL.py: 
- ++ encoder: latent representation for  time-evolving station embedding and community-informed staiton embedding
- ++ decoder: *output* stations's demands
+    encoder: latent representation for  time-evolving station embedding and community-informed staiton embedding
+    decoder: *output* stations's demands
  + Cluster.py: cluster stations to communities
  + Metrics.py: MAPE and RMSPE for all stations\ settled stations \ new stations
  
