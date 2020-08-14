@@ -22,4 +22,4 @@
  + Metrics.py: MAPE and RMSPE for all stations\ settled stations \ new stations
  
 Please cite:
-Qianru Wang, Bin Guo, YiOuyang, Kai Shu, ZhiwenYu, and Huan LiuSpatial Community-Informed Evolving Graphsfor Demand Prediction. ECML2020(accepted)
+Qianru Wang, Bin Guo, YiOuyang, Kai Shu, ZhiwenYu, and Huan Liu. Spatial Community-Informed Evolving Graphsfor Demand Prediction. ECML2020(accepted)
